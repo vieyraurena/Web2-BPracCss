@@ -1,9 +1,10 @@
 # Web2-BPracCss
-Buenas prácticas en CSS
+Best practices CSS
 
 #### Installation
 
 Install node.js https://nodejs.org/en/ then install dependencies node
+
 ```npm i```
 
 #### Usage
